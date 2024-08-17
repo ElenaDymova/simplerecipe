@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simplerecipe/static/css/main.5ae76e1a.css",
+    "main.js": "/simplerecipe/static/js/main.d532e3be.js",
+    "index.html": "/simplerecipe/index.html",
+    "main.5ae76e1a.css.map": "/simplerecipe/static/css/main.5ae76e1a.css.map",
+    "main.d532e3be.js.map": "/simplerecipe/static/js/main.d532e3be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ae76e1a.css",
+    "static/js/main.d532e3be.js"
+  ]
+}
