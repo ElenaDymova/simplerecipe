@@ -1,0 +1,14 @@
+.recipelist {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    list-style-type: none;
+    padding: 0; /* Убирает отступы по умолчанию */
+    margin: 0; /* Убирает отступы по умолчанию */
+
+
+    h1{
+        width: 100%;
+        text-align: center;
+    }
+}
